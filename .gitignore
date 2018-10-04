@@ -1,0 +1,10 @@
+# IDE
+.vscode
+debug
+
+# MacOS
+.DS_Store
+
+# Folders
+temp
+bin
